@@ -35,7 +35,7 @@ export default function NavHeader() {
             <Navbar.Brand className={"mx-5"} href={"/"}>
                 <img
                     alt=""
-                    src="/s11.png"
+                    src="https://skywets.github.io/health/s11.png"
 
                     width="170"
                     height="120"
@@ -50,9 +50,9 @@ export default function NavHeader() {
                 </Nav>
                 <Nav  >
                     <Button href={"https://wa.me/79204052050"} variant={"light"}  type={"button"}>
-                        <img src={"/images/whatsapp.svg"} /></Button>
+                        <img src={"https://skywets.github.io/health/images/whatsapp.svg"} /></Button>
                     <Button href={"https://wa.me/998912125587"} variant={"light"}  type={"button"}>
-                        <img src={"/images/telegram-app.svg"}/> </Button>
+                        <img src={"https://skywets.github.io/health/images/telegram-app.svg"}/> </Button>
                     <Button variant={"danger"} href={"/Contacts"}  type={"button"}>Send an application </Button>
                 </Nav>
                 {/*<Nav className={"m-3"} >*/}
