@@ -1,0 +1,16 @@
+{
+  "main.css": "/health/static/css/main.5c98f5a5.chunk.css",
+  "main.js": "/health/static/js/main.9e67836e.chunk.js",
+  "main.js.map": "/health/static/js/main.9e67836e.chunk.js.map",
+  "static/css/1.41a4c11a.chunk.css": "/health/static/css/1.41a4c11a.chunk.css",
+  "static/js/1.f2078eef.chunk.js": "/health/static/js/1.f2078eef.chunk.js",
+  "static/js/1.f2078eef.chunk.js.map": "/health/static/js/1.f2078eef.chunk.js.map",
+  "runtime~main.js": "/health/static/js/runtime~main.7522bd96.js",
+  "runtime~main.js.map": "/health/static/js/runtime~main.7522bd96.js.map",
+  "static/media/all.min.css": "/health/static/media/fa-solid-900.37bc7099.svg",
+  "static/css/1.41a4c11a.chunk.css.map": "/health/static/css/1.41a4c11a.chunk.css.map",
+  "static/css/main.5c98f5a5.chunk.css.map": "/health/static/css/main.5c98f5a5.chunk.css.map",
+  "index.html": "/health/index.html",
+  "precache-manifest.c1e956a4abc49bef815ed30446a33d29.js": "/health/precache-manifest.c1e956a4abc49bef815ed30446a33d29.js",
+  "service-worker.js": "/health/service-worker.js"
+}
