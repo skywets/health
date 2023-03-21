@@ -32,7 +32,7 @@ export default function NavHeader() {
         <Navbar collapseOnSelect expand={"lg"} bg={"light"}>
             {/*логотип*/}
             <Container>
-            <Navbar.Brand className={"mx-5"} href={"/"}>
+            <Navbar.Brand className={"mx-5"} href={"https://skywets.github.io/health/"}>
                 <img
                     alt=""
                     src="https://skywets.github.io/health/s11.png"
@@ -41,7 +41,7 @@ export default function NavHeader() {
                     height="120"
                     className="d-inline-block align-top"
                 />{' '}</Navbar.Brand>
-                <Navbar.Brand href={"/"} className={"m-auto"}  style={{fontFamily:"cursive", color:"black",}} >SAMARKAND HEALTH-TRAVEL</Navbar.Brand>
+                <Navbar.Brand href={"https://skywets.github.io/health/"} className={"m-auto"}  style={{fontFamily:"cursive", color:"black",}} >SAMARKAND HEALTH-TRAVEL</Navbar.Brand>
             </Container>
             {/*кнопка которая будет сворачивать меню*/}
             <Navbar.Toggle aria-controls={"responsive-navbar-navHeader"}/>
@@ -51,9 +51,9 @@ export default function NavHeader() {
                 <Nav  >
                     <Button href={"https://wa.me/79204052050"} variant={"light"}  type={"button"}>
                         <img src={"https://skywets.github.io/health/images/whatsapp.svg"} /></Button>
-                    <Button href={"https://wa.me/998912125587"} variant={"light"}  type={"button"}>
+                    <Button href={"https://t.me/998912125587"} variant={"light"}  type={"button"}>
                         <img src={"https://skywets.github.io/health/images/telegram-app.svg"}/> </Button>
-                    <Button variant={"danger"} href={"/Contacts"}  type={"button"}>Send an application </Button>
+                    <Button variant={"danger"} href={"https://skywets.github.io/health/Contacts"}  type={"button"}>Send an application </Button>
                 </Nav>
                 {/*<Nav className={"m-3"} >*/}
                 {/*    <Button   variant={"light"} onClick={handleShow} >Log In</Button>*/}

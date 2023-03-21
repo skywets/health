@@ -32,19 +32,19 @@ export default function Footer() {
               <CDBBox display="flex" justifyContent="between" className="flex-wrap, mx-3" >
                   <CDBBox>
 
-                      <a href="/" className="d-flex align-items-center p-0 text-white text-decoration-none link-dark">
+                      <a href="https://skywets.github.io/health/" className="d-flex align-items-center p-0 text-white text-decoration-none link-dark">
                           {/*<img alt="logo"  width="30px" />*/}
                           <span className="m- h5 font-weight-bold "> SAMARKAND HEALTH-TRAVEL</span>
                       </a>
-                      <a href="/home" className="d-flex align-items-center p-0 text-white text-decoration-none link-dark">
+                      <a href="https://skywets.github.io/health/home" className="d-flex align-items-center p-0 text-white text-decoration-none link-dark">
                           {/*<img alt="logo"  width="30px" />*/}
                           <span className="m- h5 font-weight-bold "> Home</span>
                       </a>
-                      <a href="/treatments" className="d-flex align-items-center p-0 text-white text-decoration-none link-dark">
+                      <a href="https://skywets.github.io/health/treatments" className="d-flex align-items-center p-0 text-white text-decoration-none link-dark">
                           {/*<img alt="logo"  width="30px" />*/}
                           <span className="m- h5 font-weight-bold "> Treatments</span>
                       </a>
-                      <a href="/about" className="d-flex align-items-center p-0 text-white text-decoration-none link-dark">
+                      <a href="https://skywets.github.io/health/about" className="d-flex align-items-center p-0 text-white text-decoration-none link-dark">
                           {/*<img alt="logo"  width="30px" />*/}
                           <span className="m- h5 font-weight-bold "> About</span>
                       </a>
@@ -55,7 +55,7 @@ export default function Footer() {
 
                   </CDBBox>
                   <CDBBox>
-                      <a href="/contacts" className="d-flex align-items-center p-0 text-white me-1 text-decoration-none link-dark">
+                      <a href="https://skywets.github.io/health/contacts" className="d-flex align-items-center p-0 text-white me-1 text-decoration-none link-dark">
                           <span className="m- h5 font-weight-bold"> Contacts</span>
                       </a>
                       <p><i className="fas fa-home me-1 "></i> Samarqand Darvoza</p>
@@ -79,7 +79,7 @@ export default function Footer() {
                   <CDBBtn flat color="dark" className="mx-3" href={"https://wa.me/89204052050"}>
                       <CDBIcon fab icon="whatsapp" />
                   </CDBBtn>
-                  <CDBBtn flat color="dark" className="p-2" href={"https://wa.me/998912125587"}>
+                  <CDBBtn flat color="dark" className="p-2" href={"https://t.me/998912125587"}>
                       <CDBIcon fab icon="telegram" />
                   </CDBBtn>
               </CDBBox>
