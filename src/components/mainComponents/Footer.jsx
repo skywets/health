@@ -34,7 +34,7 @@ export default function Footer() {
 
                   </CDBBox>
                   <CDBBox>
-                      <a href="https://skywets.github.io/" className="d-flex align-items-center p-0 text-white me-1 text-decoration-none link-dark">
+                      <a href="https://skywets.github.io/health/" className="d-flex align-items-center p-0 text-white me-1 text-decoration-none link-dark">
                           <span className="m- h5 font-weight-bold"> Contacts</span>
                       </a>
                       <p><i className="fas fa-home me-1 "></i> Samarkand Darvoza</p>
