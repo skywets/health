@@ -48,12 +48,12 @@ export default function NavHeader() {
             <Navbar.Collapse id={"responsive-navbar-navHeader"}>
                 <Nav className={"me-auto"}>
                 </Nav>
-                <Nav  >
+                <Nav className={"mx-2"} >
                     <Button href={"https://wa.me/79204052050"} variant={"light"}  type={"button"}>
                         <img src={"https://skywets.github.io/health/images/whatsapp.svg"} /></Button>
                     <Button href={"https://t.me/998912125587"} variant={"light"}  type={"button"}>
                         <img src={"https://skywets.github.io/health/images/telegram-app.svg"}/> </Button>
-                    <Button variant={"danger"} href={"https://skywets.github.io/health/Contacts"}  type={"button"}>Send an application </Button>
+                    <Button variant={"danger"} href={"https://skywets.github.io/health/contacts"}  type={"button"}>Send an application </Button>
                 </Nav>
                 {/*<Nav className={"m-3"} >*/}
                 {/*    <Button   variant={"light"} onClick={handleShow} >Log In</Button>*/}
