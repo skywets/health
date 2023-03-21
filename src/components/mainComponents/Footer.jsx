@@ -23,7 +23,7 @@ export default function Footer() {
                           {/*<img alt="logo"  width="30px" />*/}
                           <span className="m- h5 font-weight-bold "> Treatments</span>
                       </a>
-                      <a href="https://skywets.github.io/./about" className="d-flex align-items-center p-0 text-white text-decoration-none link-dark">
+                      <a href="/src/components/About.jsx" className="d-flex align-items-center p-0 text-white text-decoration-none link-dark">
                           {/*<img alt="logo"  width="30px" />*/}
                           <span className="m- h5 font-weight-bold "> About</span>
                       </a>
@@ -37,7 +37,7 @@ export default function Footer() {
                       <a href="https://skywets.github.io/" className="d-flex align-items-center p-0 text-white me-1 text-decoration-none link-dark">
                           <span className="m- h5 font-weight-bold"> Contacts</span>
                       </a>
-                      <p><i className="fas fa-home me-1 "></i> Samarqand Darvoza</p>
+                      <p><i className="fas fa-home me-1 "></i> Samarkand Darvoza</p>
                       <p>
                           <i className="fas fa-envelope me-1"></i>
                           info@example.com
