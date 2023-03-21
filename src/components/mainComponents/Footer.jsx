@@ -23,7 +23,7 @@ export default function Footer() {
                           {/*<img alt="logo"  width="30px" />*/}
                           <span className="m- h5 font-weight-bold "> Treatments</span>
                       </a>
-                      <a href="/src/components/About.jsx" className="d-flex align-items-center p-0 text-white text-decoration-none link-dark">
+                      <a href="../About.jsx" className="d-flex align-items-center p-0 text-white text-decoration-none link-dark">
                           {/*<img alt="logo"  width="30px" />*/}
                           <span className="m- h5 font-weight-bold "> About</span>
                       </a>
