@@ -1,7 +1,7 @@
 {
   "name": "notes",
   "version": "0.1.0",
-  "homepage": "https://skywets.github.io/HEALTH-TRAVEL",
+  "homepage": "https://skywets.github.io/health",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.6",
