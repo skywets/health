@@ -59,16 +59,16 @@ export const Contacts = () => (
             <Container >
         <Nav >
             <Nav.Item>
-             <a style={{marginTop:"10px"}}><img src={"/images/phone.png"} style={{width:"24px", height:"24px"}}/> 8 999 999 99 99</a>
+             <a style={{marginTop:"10px"}}><img src={"https://skywets.github.io/health/images/phone.png"} style={{width:"24px", height:"24px"}}/> 8 999 999 99 99</a>
             </Nav.Item>
             <Nav.Item>
-                <a style={{marginTop:"10px"}}><img src={"/images/email.svg"} style={{width:"24px", height:"24px"}}/> mail@mail.ru</a>
+                <a style={{marginTop:"10px"}}><img src={"https://skywets.github.io/health/images/email.svg"} style={{width:"24px", height:"24px"}}/> mail@mail.ru</a>
             </Nav.Item>
             <Nav.Item>
-                <a style={{marginTop:"10px"}}><img src={"/images/web.png"} style={{width:"24px", height:"24px"}}/> health-travel.ru</a>
+                <a style={{marginTop:"10px"}}><img src={"https://skywets.github.io/health/images/web.png"} style={{width:"24px", height:"24px"}}/> health-travel.ru</a>
             </Nav.Item>
             <Nav.Item>
-                <a style={{marginTop:"10px"}}><img src={"/images/location.png"} style={{width:"24px", height:"24px"}}/> Samarkand darvoza</a>
+                <a style={{marginTop:"10px"}}><img src={"https://skywets.github.io/health/images/location.png"} style={{width:"24px", height:"24px"}}/> Samarkand darvoza</a>
             </Nav.Item>
         </Nav>
             </Container>

@@ -1,26 +1,5 @@
 import React from "react";
-import { CDBFooter, CDBFooterLink, CDBBox, CDBBtn, CDBIcon } from 'cdbreact';
-import {CDBModalFooter} from "cdbreact";
-import styled from "styled-components";
-import {hover} from "@testing-library/user-event/dist/hover";
-import {Nav, Navbar} from "react-bootstrap";
-
-const Styles = styled.div `
-a, .navbar-nav, .nav-link, nav-button {
-color:#adb1b8;
-display:flex;
-height:auto;
-margin-left:10px;
-margin-right:10px;
-justify-content:space-between;
-font-family: 'Montserrat', Arial, sans-serif;
-padding:0px;
-&:hover {
-color:white
-}
-}
-`
-
+import {CDBBox, CDBBtn, CDBIcon } from 'cdbreact';
 
 
 export default function Footer() {
@@ -56,7 +35,7 @@ export default function Footer() {
                   </CDBBox>
                   <CDBBox>
                       <a href="https://skywets.github.io/health/contacts" className="d-flex align-items-center p-0 text-white me-1 text-decoration-none link-dark">
-                          <span className="m- h5 font-weight-bold"> Contacts</span>
+                         Contacts
                       </a>
                       <p><i className="fas fa-home me-1 "></i> Samarqand Darvoza</p>
                       <p>
