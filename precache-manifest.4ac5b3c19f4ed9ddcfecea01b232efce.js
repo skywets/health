@@ -32,14 +32,6 @@ self.__precacheManifest = [
     "url": "/health/static/media/fa-brands-400.592643a8.eot"
   },
   {
-    "revision": "d1d7e3b4c219fde0f7376c6facfd7149",
-    "url": "/health/static/media/fa-regular-400.d1d7e3b4.woff"
-  },
-  {
-    "revision": "b91d376b8d7646d671cd820950d5f7f1",
-    "url": "/health/static/media/fa-regular-400.b91d376b.woff2"
-  },
-  {
     "revision": "1a575a4138e5f366474f0e7c5bd614a5",
     "url": "/health/static/media/fa-brands-400.1a575a41.woff"
   },
@@ -48,16 +40,28 @@ self.__precacheManifest = [
     "url": "/health/static/media/fa-regular-400.b0e2db3b.eot"
   },
   {
-    "revision": "c5d109be8edd3de0f60eb472bd9ef691",
-    "url": "/health/static/media/fa-regular-400.c5d109be.svg"
+    "revision": "b91d376b8d7646d671cd820950d5f7f1",
+    "url": "/health/static/media/fa-regular-400.b91d376b.woff2"
+  },
+  {
+    "revision": "d1d7e3b4c219fde0f7376c6facfd7149",
+    "url": "/health/static/media/fa-regular-400.d1d7e3b4.woff"
   },
   {
     "revision": "766913e6c0088ab8c9f73e18b4127bc4",
     "url": "/health/static/media/fa-regular-400.766913e6.ttf"
   },
   {
+    "revision": "c5d109be8edd3de0f60eb472bd9ef691",
+    "url": "/health/static/media/fa-regular-400.c5d109be.svg"
+  },
+  {
     "revision": "d824df7eb2e268626a2dd9a6a741ac4e",
     "url": "/health/static/media/fa-solid-900.d824df7e.woff2"
+  },
+  {
+    "revision": "b9625119ce4300f0ef890a8f3234c773",
+    "url": "/health/static/media/fa-solid-900.b9625119.ttf"
   },
   {
     "revision": "0c6bfc668a72935760178f91327aed3a",
@@ -66,10 +70,6 @@ self.__precacheManifest = [
   {
     "revision": "d745348d289b149026921f197929a893",
     "url": "/health/static/media/fa-solid-900.d745348d.woff"
-  },
-  {
-    "revision": "b9625119ce4300f0ef890a8f3234c773",
-    "url": "/health/static/media/fa-solid-900.b9625119.ttf"
   },
   {
     "revision": "1d5619cd804367cefe6da2d79289218a",
